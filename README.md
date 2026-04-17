@@ -8,28 +8,22 @@ Currently learning advanced Android development, Firebase integration, and app m
 I enjoy solving practical problems through mobile apps and turning ideas into products.
 
 ---
+<table>
+<tr>
 
-## 💼 About Me
-- 💻 Android App Developer using **Java**
-- 📱 Skilled in **Android Studio**
-- 🔥 Working with **Firebase Auth, Firestore, Realtime Database**
+  <td valign="top" width="40%">
+
+## 👨‍💻 About Me
+
+- 💻 Android App Developer with **Java**
+- 🔥 Learning **Firebase Auth, Firestore, Realtime Database**
 - 🏢 Founder of **Swareapp**
-- 🌱 Currently learning **advanced app architecture & GitHub workflow**
-- 🎯 Goal: Build a software company and work as a professional developer
+- 🌱 Currently improving **GitHub, backend & app architecture skills**
+- 🎯 Goal: Build a successful software company and remote career
 
----
+</td>
 
-## 🚀 Featured Projects
-### 📌 Meal Manager App
-Student-focused app for tracking meals and monthly expenses.
-
-### 📌 Notes App
-Offline note-taking app with PIN lock and secure local storage.
-
-### 📌 Student Expense Tracker
-Simple expense management app for daily student budgeting.
-
----
+<td valign="top" width="30%">
 
 ## 🛠 Tech Stack
 - Java
@@ -41,7 +35,9 @@ Simple expense management app for daily student budgeting.
 - Git
 - GitHub
 
----
+</td>
+
+<td valign="top" width="30%">
 
 ## 📈 Current Focus
 - Clean code structure
@@ -50,7 +46,11 @@ Simple expense management app for daily student budgeting.
 - App publishing
 - Freelancing preparation
 
----
+</td>
+
+</tr>
+</table>
+
 
 ## 📫 Contact
 - GitHub: https://github.com/shakibmuntasir-x
